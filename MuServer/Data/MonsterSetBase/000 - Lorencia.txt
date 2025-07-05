@@ -1,0 +1,72 @@
+//=========================================================================================================================================
+// NPCS
+//=========================================================================================================================================
+0
+//Monster      MapNumber      Range      PositionX      PositionY      Direction      Comment
+226            00             00         122            110            03             //Trainer
+248            00             00         125            125            03             //Trainer
+230            00             00         062            130            03             //Wandering Merchant Alex
+250            00             00         183            137            02             //Wandering Merchant
+253            00             00         127            086            02             //Potion Girl Amy
+251            00             00         116            141            03             //Hanzo the Blacksmith
+255            00             00         123            135            01             //Lumen the Barmaid
+246	           00   	      05      	 126  	        135 	       01             // wepon merchant
+254            00             00         118            113            03             //Pasi the Mage
+249            00             10         131            088            01             //Guard
+249            00             20         173            125            03             //Guard
+249            00             20         094            130            07             //Guard
+249            00             20         094            125            07             //Guard
+249            00             30         131            148            01             //Guard
+240            00             00         147            145            01             //Safety Guardian
+240            00             00         146            110            03             //Safety Guardian
+257            00             00         096            129            01             //Shadow Phantom Soldier
+375            00             00         132            161            03             //Chaos Card Master
+257            00             00         132            165            03             //Shadow Phantom Soldier
+257            00             00         132            090            03             //Shadow Phantom Soldier
+257            00             00         170            129            01             //Shadow Phantom Soldier
+547            00             00         139            138            03             //Market Union Member Julia
+543            00             00         137    		121            03             //Gens Duprian Steward
+544            00             00         137    		133            03             //Gens Vanert Steward
+540            00             00         130            128            03             //Lugard
+522            00             00         130            126            03             //Jerint the Assistant
+251            00             00         119            142            03             //Hanzo the Blacksmith
+217            00             00         154            180            03             //Stone Statue
+218            00             00         154            183            03             //Stone Statue
+380            00             00         130            134            03             //Stone Statue
+415            00             00         130            143            02             //Hanzo the Blacksmith
+585            00             00         124            143            02             //Hanzo the Blacksmith
+620            00             00         127            143            02             //Hanzo the Blacksmith
+254            00             00         147            120            03             //Pasi the Mage
+254            00             00         145            120            03             //Pasi the Mage
+end
+
+//=========================================================================================================================================
+// SPOTS
+//=========================================================================================================================================
+1
+//Monster      MapNumber      Range      BeginPosX      BeginPosY      EndPosX      EndPosY      Direction      Quantity      Comment
+003            00             30         180            090            226          244          -1             30            // Spider
+003            00   	      02    	 181         	128            181          128 		 -1     		15   	      // Spider
+002 	       00   	      30    	 184    		119            184          119 		 -1     		05   	      // Spider
+003 	       00   	      30    	 206    		151            206          151 		 -1     		02   	      // Spider
+003 	       00   	      30    	 224    		168            224          168 		 -1     		02   	      // Spider
+002            00             30         180            090            226          244          -1             30            // Budge Dragon
+002            00             30         135            020            240          088          -1             20            // Budge Dragon
+002 	       00   	      02    	 181    		128            181          128 		 -1     		02   	      // Budge Dragon
+002 	       00   	      30    	 198    		126            198          126 		 -1     		02   	      // Budge Dragon
+002 	       00   	      30    	 206    		151            206          151 		 -1     		02   	      // Budge Dragon
+002 	       00   	      30    	 224    		168            224          168 		 -1     		02   	      // Budge Dragon
+000            00             30         135            020            240          088          -1             45            // Bull Fighter
+000 	       00   	      02    	 138    		079            138          079 		 -1     		15   	      // Bull Fighter
+004            00             30         008            011            094          244          -1             45            // Elite Bull Fighter
+004 	       00   	      02    	 090    		126            090          126 		 -1     		20   	      // Elite Bull Fighter
+014            00             30         095            168            175          244          -1             15            // Skeleton
+014 	       00   	      02    	 133    		177            133          177 		 -1     		15   	      // Skeleton
+001            00             30         008            011            094          244          -1             45            // Hound
+001 	       00   	      02    	 090    		126            090          126 		 -1     		20   	      // Hound
+007 	       00   	      02    	 138    		079            138          079 		 -1     		15   	      // Giant
+007            00             30         008            011            060          080          -1             15            // Giant
+006            00             30         095            168            175          244          -1             20            // Lich
+006 	       00   	      02    	 133    		177            133          177 		 -1     		15   	      // Lich
+end
+

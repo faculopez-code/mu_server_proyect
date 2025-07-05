@@ -1,0 +1,4 @@
+//	OriginalIndex   NewIndex
+	6861      	6693
+	6862      	6779
+end

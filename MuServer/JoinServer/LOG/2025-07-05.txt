@@ -1,0 +1,5 @@
+00:00:19 Could not connect to database
+00:05:44 Could not connect to database
+00:39:52 Could not connect to database
+00:45:21 Could not connect to database
+00:51:25 Could not connect to database

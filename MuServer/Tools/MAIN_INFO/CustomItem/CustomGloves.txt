@@ -1,0 +1,6 @@
+// ----------------------------------------------------------------------------------
+// ItemIndex 	ModelName		IndexLeft	TextureLeft	IndexRight	TextureRight 	ColorR  ColorG  ColorB	
+// ----------------------------------------------------------------------------------
+100		"Sword34"		1552		"SwordL34"	1553		"SwordR34" 	255	0	0
+end
+

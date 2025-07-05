@@ -1,0 +1,5 @@
+00:28:27 [SETCOIN LOG] Start
+00:36:01 [adestin][Adestin] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+01:00:38 [SETCOIN LOG] Start
+01:03:04 [SETCOIN LOG] Start
+01:11:51 [SETCOIN LOG] Start

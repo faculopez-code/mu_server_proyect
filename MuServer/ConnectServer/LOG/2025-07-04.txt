@@ -1,0 +1,39 @@
+14:50:38 [SocketManager] Server started at port [44405]
+14:50:38 [ServerList] ServerList loaded successfully
+14:50:50 [ServerList] GameServer online (GameServer) (0)
+15:36:06 [SocketManager] Server started at port [44405]
+15:36:06 [ServerList] ServerList loaded successfully
+15:36:14 [ServerList] GameServer online (GameServer) (0)
+15:40:50 [SocketManager] Server started at port [44405]
+15:40:50 [ServerList] ServerList loaded successfully
+15:40:59 [ServerList] GameServer online (GameServer) (0)
+15:42:01 [SocketManager] Server started at port [44405]
+15:42:01 [ServerList] ServerList loaded successfully
+15:42:10 [ServerList] GameServer online (GameServer) (0)
+15:44:59 [SocketManager] Server started at port [44405]
+15:44:59 [ServerList] ServerList loaded successfully
+15:45:07 [ServerList] GameServer online (GameServer) (0)
+15:59:20 [SocketManager] Server started at port [44405]
+15:59:20 [ServerList] ServerList loaded successfully
+15:59:29 [ServerList] GameServer online (GameServer) (0)
+16:03:28 [SocketManager] Server started at port [44405]
+16:03:28 [ServerList] ServerList loaded successfully
+16:03:37 [ServerList] GameServer online (GameServer) (0)
+16:16:33 [SocketManager] Server started at port [44405]
+16:16:33 [ServerList] ServerList loaded successfully
+16:16:42 [ServerList] GameServer online (GameServer) (0)
+16:19:12 [SocketManager] Server started at port [44405]
+16:19:12 [ServerList] ServerList loaded successfully
+16:19:21 [ServerList] GameServer online (GameServer) (0)
+16:29:31 [SocketManager] Server started at port [44405]
+16:29:31 [ServerList] ServerList loaded successfully
+16:29:39 [ServerList] GameServer online (GameServer) (0)
+16:30:36 [SocketManager] Server started at port [44405]
+16:30:36 [ServerList] ServerList loaded successfully
+16:31:22 [ServerList] GameServer online (GameServer) (0)
+23:40:54 [SocketManager] Server started at port [44405]
+23:40:54 [ServerList] ServerList loaded successfully
+23:41:43 [ServerList] GameServer online (GameServer) (0)
+23:48:06 [SocketManager] Server started at port [44405]
+23:48:06 [ServerList] ServerList loaded successfully
+23:48:15 [ServerList] GameServer online (GameServer) (0)

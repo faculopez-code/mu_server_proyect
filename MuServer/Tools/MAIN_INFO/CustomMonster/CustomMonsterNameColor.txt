@@ -1,0 +1,5 @@
+//Index   ColorR   ColorG   ColorB   Description
+2         255      102      0        //Budge Dragon
+3         0        255      0        //Spider
+580       255      0        0        //New Boss
+end

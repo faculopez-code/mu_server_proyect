@@ -1,0 +1,4 @@
+//Message                                                     Type   Count   Opacity   Delay   Red   Green   Blue   Speed   RepeatTime
+"sopa du macaco"  	                                      0      0       0         0       0     0       0      0       60
+"atr cumbia cajeteala piola gato"                             0      0       0         0       0     0       0      0       60
+end

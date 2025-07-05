@@ -1,0 +1,18 @@
+// ----------------------------------------------------------------------------------
+// Type = 0: Npc 1
+// Type = 1: Npc 2
+// Type = 2: Monster Move
+// Type = 3: Monster Attack1
+// Type = 4: Monster Attack2
+// Type = 6: Monster Death
+// Folder Data/Sound
+// ----------------------------------------------------------------------------------
+// MonsterID | Type 	| FileName 		
+// ----------------------------------------------------------------------------------
+580		2	"Nix_skill_DevilIce_V"
+580		3	"Nix_skill_IceBoom_Ice"
+580		4	"Nix_skill_IceRain"
+580		6	"Nix_death"
+620		0	"woman-laughter"
+620		1	"witch-escape"
+end

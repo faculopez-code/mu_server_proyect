@@ -1,0 +1,37 @@
+00:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 132 Y: 196)
+00:09:38 [ MarlonMove ] Map: 7, X: 17 Y: 25
+00:10:00 [CustomQuiz] Start
+00:13:00 [CustomQuiz] Finish
+00:24:39 [ MarlonMove ] Map: 2, X: 198 Y: 47
+00:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 84 Y: 68)
+00:28:27 [EVENT LOG] Start
+00:36:01 [OnlineLoterry] Add Member (Facundito)
+00:36:01 [OnlineLoterry] Add Member (Adestin)
+00:36:01 [OnlineLoterry] Winner (Adestin)
+00:43:28 [ MarlonMove ] Map: 7, X: 17 Y: 25
+00:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 154 Y: 50)
+00:54:00 [Auction Event Index 0] Started
+00:54:01 [Auction 0] Checking Data
+00:54:01 [Auction 0] Ended
+00:58:00 [Auction Event Index 1] Started
+00:58:01 [Auction 1] Checking Data
+00:58:29 [ MarlonMove ] Map: 3, X: 169 Y: 89
+01:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 53 Y: 108)
+01:00:38 [EVENT LOG] Start
+01:00:38 [Auction Event Index 0] Started
+01:00:39 [Auction 0] Checking Data
+01:00:39 [Auction 0] Ended
+01:02:00 [Auction Event Index 2] Started
+01:02:01 [Auction 2] Checking Data
+01:03:04 [EVENT LOG] Start
+01:03:05 [Auction Event Index 0] Started
+01:03:06 [Auction 0] Checking Data
+01:03:06 [Auction 0] Ended
+01:10:00 [Auction Event Index 4] Started
+01:10:00 [CustomQuiz] Start
+01:10:01 [Auction 4] Checking Data
+01:11:51 [EVENT LOG] Start
+01:11:51 [Auction Event Index 0] Started
+01:11:52 [Auction 0] Checking Data
+01:11:52 [Auction 0] Ended
+01:26:52 [ MarlonMove ] Map: 0, X: 137 Y: 87

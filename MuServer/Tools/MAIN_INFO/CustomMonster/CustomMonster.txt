@@ -1,0 +1,18 @@
+// ----------------------------------------------------------------------------------
+// Type = 0: NPC
+// Type = 1: Monster
+// Type = 2: Skin
+// ----------------------------------------------------------------------------------
+// MonsterID | Type 	| Name 		| Dir 				| Folder 		| BMDFile 		| Size
+// ----------------------------------------------------------------------------------
+580		1	"ExBoSS12345678910"	"Data\\Custom\\Monster\\"	"Custom\\Monster\\"	"Monster171"	1.00
+585		0	"Arthur"		"Data\\Custom\\Monster\\"	"Custom\\Monster\\"	"CustomNpc02"	1.00
+620		0	"Arthur2"		"Data\\Custom\\Monster\\"	"Custom\\Monster\\"	"CustomNpc03"	1.00
+
+//Skins
+9256		2	"Arthur2"		"Data\\Custom\\Skin\\"		"Custom\\Skin\\"	"Teste"		0.90
+9257		2	"Arthur2"		"Data\\Custom\\Skin\\"		"Custom\\Skin\\"	"Breeder"	1.00
+9258		2	"Arthur2"		"Data\\Custom\\Skin\\"		"Custom\\Skin\\"	"sasuke"	1.00
+9259		2	"Arthur2"		"Data\\Custom\\Skin\\"		"Custom\\Skin\\"	"bann"		1.00
+9260		2	"Arthur2"		"Data\\Custom\\Skin\\"		"Custom\\Skin\\"	"FreddyKrueger"	1.00
+end

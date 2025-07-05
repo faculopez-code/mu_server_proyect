@@ -1,0 +1,22 @@
+///////////////////////////////////////////////////////////////////////////////////////
+// ItemPos = Positve/Negative
+// ItemSize = 1 to 10 (1 is bigger)
+///////////////////////////////////////////////////////////////////////////////////////
+// 	#ItemIndex  #ItemLevel   #ItemPos   #ItemSize	#Description
+	6159        0		 -9	    6		//Jewel of Chaos
+	7181        0		 0	    9		//Jewel of Bless
+	7182        0		 0	    9		//Jewel of Soul
+	7184        0		 -1	    9		//Jewel of Life
+	7190        0		 0	    9		//Jewel of Creation
+	7199        0		 -9	    9		//Jewel of Guardian
+	7209        0		 0	    11		//Gemstone
+	7210        0		 0	    10		//Jewel of Harmony
+	7211        0		 0	    9		//Lower refining stone
+	7212        0		 0 	    10		//Higher refining stone
+
+	7179        12		 -2 	    11		//Box of Kundun +5
+	7416        0		 -2 	    11		//Jewel Of Excellent
+
+
+end
+

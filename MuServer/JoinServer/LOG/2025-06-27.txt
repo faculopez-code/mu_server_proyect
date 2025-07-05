@@ -1,0 +1,13 @@
+00:24:33 [AccountInfo] Account create (Account: adestin, password: GG123456)
+00:28:25 [SocketManager] Server started at port [55970]
+00:28:27 [ServerManager][0] AddServer (127.0.0.1)
+00:28:27 [ServerManager][0] ServerInfo (GameServer) (55901) (0)
+01:00:35 [SocketManager] Server started at port [55970]
+01:00:38 [ServerManager][0] AddServer (127.0.0.1)
+01:00:38 [ServerManager][0] ServerInfo (GameServer) (55901) (0)
+01:03:02 [SocketManager] Server started at port [55970]
+01:03:05 [ServerManager][0] AddServer (127.0.0.1)
+01:03:05 [ServerManager][0] ServerInfo (GameServer) (55901) (0)
+01:11:48 [SocketManager] Server started at port [55970]
+01:11:51 [ServerManager][0] AddServer (127.0.0.1)
+01:11:51 [ServerManager][0] ServerInfo (GameServer) (55901) (0)

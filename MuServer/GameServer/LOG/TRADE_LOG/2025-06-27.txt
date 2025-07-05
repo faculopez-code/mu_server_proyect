@@ -1,0 +1,5 @@
+00:34:51 [ExchangeTrade][adestin][Adestin] - (Account: faculop, Name: Facundito, Index: 4106, Level: 01, Serial: 00003588, Option1: 0, Option2: 0, Option3: 0, NewOpt: 000, JOH: 000, ItemOptEx: 000, SocketOpt: 255, 255, 255, 255, 255)
+00:34:51 [ExchangeTrade][adestin][Adestin] - (Account: faculop, Name: Facundito, Index: 4610, Level: 00, Serial: 00003589, Option1: 0, Option2: 0, Option3: 0, NewOpt: 000, JOH: 000, ItemOptEx: 000, SocketOpt: 255, 255, 255, 255, 255)
+00:34:51 [ExchangeTrade][adestin][Adestin] - (Account: faculop, Name: Facundito, Index: 2560, Level: 00, Serial: 00003587, Option1: 0, Option2: 0, Option3: 0, NewOpt: 000, JOH: 000, ItemOptEx: 000, SocketOpt: 255, 255, 255, 255, 255)
+00:34:51 [ExchangeTrade][adestin][Adestin] - (Account: faculop, Name: Facundito, Index: 2560, Level: 02, Serial: 00003586, Option1: 0, Option2: 0, Option3: 0, NewOpt: 000, JOH: 000, ItemOptEx: 000, SocketOpt: 255, 255, 255, 255, 255)
+00:34:51 [ExchangeTrade][faculop][Facundito] - (Account: adestin, Name: Adestin, Index: 7683, Level: 00, Serial: 0000358A, Option1: 0, Option2: 0, Option3: 0, NewOpt: 000, JOH: 000, ItemOptEx: 000, SocketOpt: 255, 255, 255, 255, 255)

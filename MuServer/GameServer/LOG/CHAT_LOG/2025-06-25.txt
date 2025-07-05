@@ -1,0 +1,22 @@
+16:36:00 [CHAT LOG] Start
+17:14:26 [CHAT LOG] Start
+17:38:55 [CHAT LOG] Start
+17:48:25 [faculop][Facundito] - (Message: c)
+17:49:02 [faculop][Facundito] - (Message: /s 300)
+17:49:27 [faculop][Facundito] - (Message: /s 300)
+17:50:41 [faculop][Facundito] - (Message: /move lorencia)
+17:50:54 [faculop][Facundito] - (Message: /S 300)
+17:52:09 [faculop][Facundito] - (Message: /s <300>)
+17:52:23 [faculop][Facundito] - (Message: /f <300>)
+17:52:42 [faculop][Facundito] - (Message: /f 10)
+18:28:11 [CHAT LOG] Start
+18:58:42 [CHAT LOG] Start
+19:15:27 [faculop][Facundito] - (Message: /openware)
+19:15:33 [faculop][Facundito] - (Message: /openware)
+19:16:54 [faculop][Facundito] - (Message: mocho gei)
+19:17:03 [faculop][Facundito] - (Message: mocho gei)
+20:27:23 [CHAT LOG] Start
+21:53:11 [CHAT LOG] Start
+22:27:53 [CHAT LOG] Start
+22:51:21 [CHAT LOG] Start
+23:09:33 [CHAT LOG] Start

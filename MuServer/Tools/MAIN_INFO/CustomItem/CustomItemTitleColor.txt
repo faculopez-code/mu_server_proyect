@@ -1,0 +1,20 @@
+// Tooltip Item Title Color
+// No BackGround: -1 -1 -1
+// Color: 0 - 255
+// Max 400 total
+0
+//	ItemMinIndex   ItemMaxIndex ItemLevel   ColorR   ColorG   ColorB    BGColorR   BGColorG   BGColorB   BoderColorR   BorderColorG   BorderColorB 
+	0001           10000	    -1		-1	 -1       -1	    -1	       -1         -1	     128	   128 		  128	
+	0002           0002	    -1		255      128      0	    -1	       -1         -1	     255           128            0
+	0003           0003	    -1		255      51       153	    -1	       -1         -1	     -1	           -1             -1
+	0004           0004	    -1		255      51       153	    60	       60         200	     -1	           -1             -1		
+end
+
+// Drop Item Title Color
+// No BackGround: -1 -1 -1
+// Color: 0 - 255
+1 
+//	ItemMinIndex   ItemMaxIndex ItemLevel   ColorR   ColorG   ColorB    BGColorR   BGColorG   BGColorB  TitleBold
+	0001           0004	    -1		51        255     255	    102	       0          51	    1
+	0005           0005	    -1		153       255     255	    -1	       -1         -1	    2
+end

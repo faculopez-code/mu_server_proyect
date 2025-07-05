@@ -1,0 +1,38 @@
+//Index   DefenseA   IncDamageA   IncDamageB   DecDamageA   DecDamageB   RequireLevelA   Comment
+6144      3          12           2            12           2            4               //Wings of Elf
+6145      3          12           2            12           2            4               //Wings of Heaven
+6146      3          12           2            12           2            4               //Wings of Satan
+
+6147      2          32           1            25           2            5               //Wings of Spirits
+6148      2          32           1            25           2            5               //Wings of Soul
+6149      2          32           1            25           2            5               //Wings of Dragon
+6150      2          32           1            25           2            5               //Wings of Darkness
+
+6180      4          39           2            39           2            0               //Wings of Storm
+6181      4          39           2            39           2            0               //Wings of Eternal
+6182      4          39           2            39           2            0               //Wings of Illusion
+6183      4          39           2            39           2            0               //Wings of Ruin
+6184      4          39           2            24           2            0               //Cloak of Emperor
+6185      3          12           2            12           2            4               //Wings of Curse
+6186      2          32           1            25           2            5               //Wings of Despair
+6187      4          39           2            39           2            0               //Wings of Dimension
+6193      2          32           1            25           2            5               //Cloak of Warrior
+6194      4          39           2            39           2            0               //Lord of the Cape
+6686      2          20           2            10           1            5               //Cloak of Lord
+
+// Mini Wings
+6274      2          12           2            12           2            0               //Small Cape of Lord
+6275      2          12           2            12           2            0               //Small Wing of Curse
+6276      2          12           2            12           2            0               //Small Wings of Elf
+6277      2          12           2            12           2            0               //Small Wings of Heaven
+6278      2          12           2            12           2            0               //Small Wings of Satan
+6279      2          12           2            12           2            0               //Little Warrior's Cloak
+
+// Season 8+
+6406      3          21           2            13           2            4               //Cloak of Death
+6407      3          33           2            30           2            4               //Wings of Chaos
+6408      3          35           2            29           2            4               //Wings of Magic
+6409      3          35           2            29           2            4               //Wings of Life
+6410      3          71           2            71           1            0               //Wings of Conqueror
+6411      3          60           2            60           1            0               //Wings of Angel and Devil
+end

@@ -1,0 +1,57 @@
+[GameServerInfo]
+;==================================================
+; AntiFlood Settings
+; Recommended configuration
+; Don't change without knowledge
+;==================================================
+AntiFloodActive = 1
+AntiFloodResetTime = 1000
+AntiFloodMaxCount = 3
+AntiFloodCheckTime = 50
+AntiFloodBlocTime = 60
+
+;==================================================
+; Hack Settings
+;==================================================
+CheckSpeedHack = 0
+CheckSpeedHackTolerance = 0
+CheckLatencyHack = 0
+CheckLatencyHackTolerance = 0
+CheckAutoPotionHack = 0
+CheckAutoPotionHackTolerance = 0
+CheckAutoComboHack = 0
+CheckAutoComboHackTolerance = 0
+CheckHackPacketSerial = 0
+
+;==================================================
+; Hack Speed Skill Settings (HackSkillCheck.txt)
+; Types:
+; 0: Show message in log only
+; 1: Disconnect User
+; 2: Disable Attack
+; 3: Disable attack by x miliseconds
+; 4: Disconnect User & bloc account
+; 5: Ignore over hits
+;==================================================
+SpeedHackSkillEnable = 1
+SpeedHackSkillType = 5
+SpeedHackSkillPenalty = 5000
+SpeedHackSkillDialog = 1
+SpeedHackSkillMaxOverHits = 10
+SpeedHackSkillMaxOverHitsType = 2
+
+;==================================================
+; Hack Movement Settings
+; Types:
+; 0: Show message in log only
+; 1: Disconnect User
+; 2: Disconnect User & bloc account
+; 3: Order of Restraint Buff
+;==================================================
+SpeedHackMovementEnable = 1
+SpeedHackMovementType = 3
+SpeedHackMovementDistance = 2
+SpeedHackMovementMaxBlockDays = 30
+SpeedHackMovementTolerance = 3
+SpeedHackMovementToleranceTime = 4000
+SpeedHackMovementBuffTime = 10

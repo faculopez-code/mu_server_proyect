@@ -1,0 +1,15 @@
+01:17:31 [SocketManager] Server started at port [55960]
+01:17:35 [ServerManager][0] AddServer (127.0.0.1)
+01:17:35 [ServerManager][0] ServerInfo (GameServer) (55901) (0)
+03:01:11 [SocketManager] Server started at port [55960]
+03:01:12 [ServerManager][0] AddServer (127.0.0.1)
+03:01:12 [ServerManager][0] ServerInfo (GameServer) (55901) (0)
+03:25:03 [SocketManager] Server started at port [55960]
+03:25:05 [ServerManager][0] AddServer (127.0.0.1)
+03:25:05 [ServerManager][0] ServerInfo (GameServer) (55901) (0)
+03:51:40 [SocketManager] Server started at port [55960]
+03:51:41 [ServerManager][0] AddServer (127.0.0.1)
+03:51:41 [ServerManager][0] ServerInfo (GameServer) (55901) (0)
+23:39:31 [SocketManager] Server started at port [55960]
+23:39:36 [ServerManager][0] AddServer (127.0.0.1)
+23:39:36 [ServerManager][0] ServerInfo (GameServer) (55901) (0)

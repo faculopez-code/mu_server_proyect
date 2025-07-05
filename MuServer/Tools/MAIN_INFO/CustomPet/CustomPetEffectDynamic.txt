@@ -1,0 +1,7 @@
+//ItemIndex   EffectIndex   EffectValue   EffectLevel   ColorR   ColorG   ColorB  EffectType     EffectSize   ColorSide
+  6856        32077         22            0             2.5     0.5     0.5     9.0         0.5         0.0
+  349         32077         1             0             2.5     0.5     0.5     9.0         0.5         0.0
+  10000         32077         1             0             2.5     0.5     0.5     9.0         0.5         0.0
+  10001         32077         1             0             2.5     0.5     0.5     9.0         0.5         0.0
+  10016         32077         1             0             2.5     0.5     0.5     9.0         0.5         0.0
+end

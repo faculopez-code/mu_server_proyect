@@ -1,0 +1,20 @@
+00:36:01 [faculop][Facundito] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+01:36:01 [faculop][Facundito] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+18:18:26 [SETCOIN LOG] Start
+18:36:01 [faculop][Facundito] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+18:45:07 [faculop][Facundito] WZ_SetCoin(Pk Reward) Val1: 0, Val2: 0, Val3: 10
+19:36:01 [mocho][Exequiel1] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+19:58:03 [SETCOIN LOG] Start
+21:04:33 [SETCOIN LOG] Start
+21:07:30 [SETCOIN LOG] Start
+21:08:57 [SETCOIN LOG] Start
+21:09:28 [SETCOIN LOG] Start
+21:10:13 [SETCOIN LOG] Start
+21:11:13 [SETCOIN LOG] Start
+21:11:40 [SETCOIN LOG] Start
+21:15:33 [SETCOIN LOG] Start
+21:20:56 [SETCOIN LOG] Start
+21:23:54 [SETCOIN LOG] Start
+21:25:18 [SETCOIN LOG] Start
+21:36:01 [faculop][musa] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0
+22:36:01 [faculop][musa] WZ_SetCoin(Lottery) Val1: 10, Val2: 0, Val3: 0

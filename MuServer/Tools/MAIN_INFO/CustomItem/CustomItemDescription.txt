@@ -1,0 +1,31 @@
+// Special Description
+// Position:
+//   1: After item title
+//   2: After item Tooltip lines
+//   3: After item Class
+//   4: Tooltip Final
+// Color:
+//   0  = White
+//   1  = Blue
+//   2  = Red
+//   3  = Yellow
+//   4  = Green
+//   5  = White Red
+//   6  = Gray
+//   7  = White Blue
+//   8  = White Yellow
+//   9  = Green Blue
+//   10 = Gray 2
+//   11 = Gray 3
+
+//ItemMinIndex   ItemMaxIndex   MinItemLevel   MaxItemLevel   MinItemOption3   MaxItemOption3   MinItemNewOption   MaxItemNewOption   Position   Color   Bold   LineBreak   Description
+  3585           3585           13             13             *                *                *                  *                  1          1       0      0           "Special Description 1"
+  3585           3585           13             13             *                *                *                  *                  1          2       1      0           "Special Description 2"
+  3585           3585           13             13             *                *                *                  *                  1          3       0      0           "Special Description 3"
+  3585           3585           13             13             *                *                *                  *                  1          4       0      1           "Special Description 4"
+  3585           3585           13             13             *                *                *                  *                  2          4       0      1           "Special Description 5"
+  3585           3585           13             13             *                *                *                  *                  3          4       0      0           " "
+  3585           3585           13             13             *                *                *                  *                  3          4       0      1           "Special Description 6"
+  3585           3585           13             13             *                *                *                  *                  4          4       0      1           "Special Description 7"
+end
+

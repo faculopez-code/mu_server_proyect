@@ -1,0 +1,23 @@
+version: "3.9"
+
+services:
+  sqlserver:
+    container_name: mu_sql_server
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    restart: unless-stopped
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "MuServer_321!"
+    ports:
+      - "1433:1433"
+    volumes:
+      - ./sqlserver:/sqlserver        # carpeta local donde está .bak
+      - sqlserver_data:/var/opt/mssql
+    networks:
+      - mu-network
+
+volumes:
+  sqlserver_data:
+
+networks:
+  mu-network:

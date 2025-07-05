@@ -1,0 +1,9 @@
+//Class   LevelUp	MasterLevelUp	PlusPoint   MaxStatPoint_AL0   	MaxStatPoint_AL1   MaxStatPoint_AL2   MaxStatPoint_AL3	MaxTotalStatPoint_AL0 	MaxTotalStatPoint_AL1	MaxTotalStatPoint_AL2	MaxTotalStatPoint_AL3   
+0         20		200		200   	    65000		65000		   65000      	      65000		260000			260000			260000			260000			//DW		
+1         20		200		200         65000		65000		   65000      	      65000		260000			260000			260000			260000			//DK
+2         20		200		200         65000		65000		   65000      	      65000		260000			260000			260000			260000			//FE	
+3         20		200		200         65000		65000		   65000      	      65000		260000			260000			260000			260000			//MG	
+4         20		200		200         65000		65000		   65000      	      65000		260000			260000			260000			260000			//DL	
+5         20		200		200         65000		65000		   65000      	      65000		260000			260000			260000			260000			//SU	
+6         20		200		200         65000		65000		   65000      	      65000		260000			260000			260000			260000			//RF	
+end

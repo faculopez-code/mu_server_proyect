@@ -1,0 +1,13 @@
+14:50:39 Could not connect to database
+15:36:07 Could not connect to database
+15:40:52 Could not connect to database
+15:42:02 Could not connect to database
+15:45:00 Could not connect to database
+15:59:21 Could not connect to database
+16:03:29 Could not connect to database
+16:16:34 Could not connect to database
+16:19:13 Could not connect to database
+16:29:32 Could not connect to database
+16:30:56 Could not connect to database
+23:41:13 Could not connect to database
+23:48:07 Could not connect to database

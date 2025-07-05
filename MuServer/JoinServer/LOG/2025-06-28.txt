@@ -1,0 +1,28 @@
+00:19:41 [SocketManager] Server started at port [55970]
+00:19:47 [ServerManager][0] AddServer (127.0.0.1)
+00:19:47 [ServerManager][0] ServerInfo (GameServer) (55901) (0)
+00:47:42 [SocketManager] Server started at port [55970]
+00:47:45 [ServerManager][0] AddServer (127.0.0.1)
+00:47:45 [ServerManager][0] ServerInfo (GameServer) (55901) (0)
+00:54:43 [AccountInfo] Account create (Account: mocho, password: Exequiel19)
+01:01:52 [SocketManager] Server started at port [55970]
+01:01:55 [ServerManager][0] AddServer (127.0.0.1)
+01:01:55 [ServerManager][0] ServerInfo (GameServer) (55901) (0)
+01:34:33 [SocketManager] Server started at port [55970]
+01:34:35 [ServerManager][0] AddServer (127.0.0.1)
+01:34:35 [ServerManager][0] ServerInfo (GameServer) (55901) (0)
+01:37:48 [SocketManager] Server started at port [55970]
+01:37:51 [ServerManager][0] AddServer (127.0.0.1)
+01:37:51 [ServerManager][0] ServerInfo (GameServer) (55901) (0)
+01:51:53 [SocketManager] Server started at port [55970]
+01:51:55 [ServerManager][0] AddServer (127.0.0.1)
+01:51:55 [ServerManager][0] ServerInfo (GameServer) (55901) (0)
+01:55:38 [SocketManager] Server started at port [55970]
+01:55:41 [ServerManager][0] AddServer (127.0.0.1)
+01:55:41 [ServerManager][0] ServerInfo (GameServer) (55901) (0)
+16:26:29 [SocketManager] Server started at port [55970]
+16:26:35 [ServerManager][0] AddServer (127.0.0.1)
+16:26:35 [ServerManager][0] ServerInfo (GameServer) (55901) (0)
+16:31:45 [SocketManager] Server started at port [55970]
+16:31:47 [ServerManager][0] AddServer (127.0.0.1)
+16:31:47 [ServerManager][0] ServerInfo (GameServer) (55901) (0)

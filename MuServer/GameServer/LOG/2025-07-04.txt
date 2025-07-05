@@ -1,0 +1,406 @@
+14:50:42 [ServerInfo] CashShop loaded successfully
+14:50:42 [ServerInfo] ChaosMix loaded successfully
+14:50:42 [ServerInfo] Character loaded successfully
+14:50:42 [ServerInfo] Custom loaded successfully
+14:50:42 [ServerInfo] Command loaded successfully
+14:50:42 [ServerInfo] Common loaded successfully
+14:50:42 [ServerInfo] Effect loaded successfully
+14:50:42 [ServerInfo] Event loaded successfully
+14:50:43 [ServerInfo] EventItemBag loaded successfully
+14:50:43 [ServerInfo] Hack loaded successfully
+14:50:44 [ServerInfo] Item loaded successfully
+14:50:44 [ServerInfo] Message loaded successfully
+14:50:44 [ServerInfo] Map loaded successfully
+14:50:44 [ServerInfo] Terrain loaded successfully
+14:50:44 [ServerInfo] Monster loaded successfully
+14:50:44 [ServerInfo] Move loaded successfully
+14:50:44 [ServerInfo] Quest loaded successfully
+14:50:44 [ServerInfo] Shop loaded successfully
+14:50:44 [ServerInfo] Skill loaded successfully
+14:50:44 [ServerInfo] Util loaded successfully
+14:50:44 [ReadBotInfo] BotSystem loaded successfully
+14:50:44 [MonsterSetBase] Incorrect Monster Position: (Monster: 8, Map: 1, X: 49, Y: 125)
+14:50:44 [MonsterSetBase] Incorrect Monster Position: (Monster: 11, Map: 1, X: 198, Y: 114)
+14:50:44 [MonsterSetBase] Incorrect Monster Position: (Monster: 39, Map: 4, X: 198, Y: 243)
+14:50:44 [MonsterSetBase] Incorrect Monster Position: (Monster: 40, Map: 4, X: 24, Y: 7)
+14:50:44 [MonsterSetBase] Incorrect Monster Position: (Monster: 47, Map: 7, X: 216, Y: 49)
+14:50:45 [MonsterSetBase] Incorrect Monster Position: (Monster: 308, Map: 33, X: 148, Y: 48)
+14:50:45 [MonsterSetBase] Incorrect Monster Position: (Monster: 148, Map: 24, X: 93, Y: 4)
+14:50:45 [MonsterSetBase] Incorrect Monster Position: (Monster: 185, Map: 26, X: 58, Y: 7)
+14:50:45 [MonsterSetBase] Incorrect Monster Position: (Monster: 186, Map: 26, X: 92, Y: 4)
+14:50:45 [MonsterSetBase] Incorrect Monster Position: (Monster: 272, Map: 29, X: 69, Y: 7)
+15:36:09 [ServerInfo] CashShop loaded successfully
+15:36:09 [ServerInfo] ChaosMix loaded successfully
+15:36:09 [ServerInfo] Character loaded successfully
+15:36:09 [ServerInfo] Custom loaded successfully
+15:36:09 [ServerInfo] Command loaded successfully
+15:36:09 [ServerInfo] Common loaded successfully
+15:36:09 [ServerInfo] Effect loaded successfully
+15:36:09 [ServerInfo] Event loaded successfully
+15:36:09 [ServerInfo] EventItemBag loaded successfully
+15:36:09 [ServerInfo] Hack loaded successfully
+15:36:09 [ServerInfo] Item loaded successfully
+15:36:09 [ServerInfo] Message loaded successfully
+15:36:09 [ServerInfo] Map loaded successfully
+15:36:09 [ServerInfo] Terrain loaded successfully
+15:36:09 [ServerInfo] Monster loaded successfully
+15:36:09 [ServerInfo] Move loaded successfully
+15:36:09 [ServerInfo] Quest loaded successfully
+15:36:09 [ServerInfo] Shop loaded successfully
+15:36:09 [ServerInfo] Skill loaded successfully
+15:36:09 [ServerInfo] Util loaded successfully
+15:36:09 [ReadBotInfo] BotSystem loaded successfully
+15:36:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 8, Map: 1, X: 51, Y: 121)
+15:36:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 15, Map: 1, X: 189, Y: 143)
+15:36:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 25, Map: 2, X: 92, Y: 204)
+15:36:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 20, Map: 2, X: 242, Y: 205)
+15:36:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 35, Map: 4, X: 33, Y: 204)
+15:36:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 52, Map: 7, X: 164, Y: 136)
+15:36:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 47, Map: 7, X: 219, Y: 46)
+15:36:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 48, Map: 7, X: 219, Y: 160)
+15:36:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 351, Map: 37, X: 95, Y: 232)
+15:36:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 105, Map: 38, X: 152, Y: 76)
+15:36:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 148, Map: 24, X: 94, Y: 4)
+15:36:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 263, Map: 28, X: 59, Y: 7)
+15:40:54 [ServerInfo] CashShop loaded successfully
+15:40:54 [ServerInfo] ChaosMix loaded successfully
+15:40:54 [ServerInfo] Character loaded successfully
+15:40:54 [ServerInfo] Custom loaded successfully
+15:40:54 [ServerInfo] Command loaded successfully
+15:40:54 [ServerInfo] Common loaded successfully
+15:40:54 [ServerInfo] Effect loaded successfully
+15:40:54 [ServerInfo] Event loaded successfully
+15:40:54 [ServerInfo] EventItemBag loaded successfully
+15:40:54 [ServerInfo] Hack loaded successfully
+15:40:54 [ServerInfo] Item loaded successfully
+15:40:54 [ServerInfo] Message loaded successfully
+15:40:54 [ServerInfo] Map loaded successfully
+15:40:54 [ServerInfo] Terrain loaded successfully
+15:40:54 [ServerInfo] Monster loaded successfully
+15:40:54 [ServerInfo] Move loaded successfully
+15:40:54 [ServerInfo] Quest loaded successfully
+15:40:54 [ServerInfo] Shop loaded successfully
+15:40:54 [ServerInfo] Skill loaded successfully
+15:40:54 [ServerInfo] Util loaded successfully
+15:40:54 [ReadBotInfo] BotSystem loaded successfully
+15:40:54 [MonsterSetBase] Incorrect Monster Position: (Monster: 8, Map: 1, X: 50, Y: 121)
+15:40:54 [MonsterSetBase] Incorrect Monster Position: (Monster: 52, Map: 7, X: 164, Y: 136)
+15:40:54 [MonsterSetBase] Incorrect Monster Position: (Monster: 47, Map: 7, X: 220, Y: 45)
+15:40:54 [MonsterSetBase] Incorrect Monster Position: (Monster: 358, Map: 38, X: 95, Y: 76)
+15:40:54 [MonsterSetBase] Incorrect Monster Position: (Monster: 194, Map: 27, X: 67, Y: 7)
+15:40:54 [MonsterSetBase] Incorrect Monster Position: (Monster: 194, Map: 27, X: 93, Y: 4)
+15:42:05 [ServerInfo] CashShop loaded successfully
+15:42:05 [ServerInfo] ChaosMix loaded successfully
+15:42:05 [ServerInfo] Character loaded successfully
+15:42:05 [ServerInfo] Custom loaded successfully
+15:42:05 [ServerInfo] Command loaded successfully
+15:42:05 [ServerInfo] Common loaded successfully
+15:42:05 [ServerInfo] Effect loaded successfully
+15:42:05 [ServerInfo] Event loaded successfully
+15:42:05 [ServerInfo] EventItemBag loaded successfully
+15:42:05 [ServerInfo] Hack loaded successfully
+15:42:05 [ServerInfo] Item loaded successfully
+15:42:05 [ServerInfo] Message loaded successfully
+15:42:05 [ServerInfo] Map loaded successfully
+15:42:05 [ServerInfo] Terrain loaded successfully
+15:42:05 [ServerInfo] Monster loaded successfully
+15:42:05 [ServerInfo] Move loaded successfully
+15:42:05 [ServerInfo] Quest loaded successfully
+15:42:05 [ServerInfo] Shop loaded successfully
+15:42:05 [ServerInfo] Skill loaded successfully
+15:42:05 [ServerInfo] Util loaded successfully
+15:42:05 [ReadBotInfo] BotSystem loaded successfully
+15:42:05 [MonsterSetBase] Incorrect Monster Position: (Monster: 8, Map: 1, X: 48, Y: 125)
+15:42:05 [MonsterSetBase] Incorrect Monster Position: (Monster: 13, Map: 1, X: 113, Y: 18)
+15:42:05 [MonsterSetBase] Incorrect Monster Position: (Monster: 15, Map: 1, X: 187, Y: 143)
+15:42:05 [MonsterSetBase] Incorrect Monster Position: (Monster: 39, Map: 4, X: 200, Y: 243)
+15:42:05 [MonsterSetBase] Incorrect Monster Position: (Monster: 47, Map: 7, X: 216, Y: 47)
+15:42:05 [MonsterSetBase] Incorrect Monster Position: (Monster: 308, Map: 33, X: 148, Y: 48)
+15:42:05 [MonsterSetBase] Incorrect Monster Position: (Monster: 353, Map: 37, X: 229, Y: 94)
+15:42:05 [MonsterSetBase] Incorrect Monster Position: (Monster: 105, Map: 38, X: 95, Y: 76)
+15:42:05 [MonsterSetBase] Incorrect Monster Position: (Monster: 148, Map: 24, X: 92, Y: 4)
+15:42:05 [MonsterSetBase] Incorrect Monster Position: (Monster: 178, Map: 25, X: 68, Y: 7)
+15:42:05 [MonsterSetBase] Incorrect Monster Position: (Monster: 186, Map: 26, X: 67, Y: 7)
+15:42:05 [MonsterSetBase] Incorrect Monster Position: (Monster: 263, Map: 28, X: 62, Y: 7)
+15:42:05 [MonsterSetBase] Incorrect Monster Position: (Monster: 271, Map: 29, X: 58, Y: 7)
+15:42:05 [MonsterSetBase] Incorrect Monster Position: (Monster: 331, Map: 36, X: 59, Y: 7)
+15:42:05 [MonsterSetBase] Incorrect Monster Position: (Monster: 332, Map: 36, X: 91, Y: 4)
+15:45:02 [ServerInfo] CashShop loaded successfully
+15:45:02 [ServerInfo] ChaosMix loaded successfully
+15:45:02 [ServerInfo] Character loaded successfully
+15:45:02 [ServerInfo] Custom loaded successfully
+15:45:02 [ServerInfo] Command loaded successfully
+15:45:02 [ServerInfo] Common loaded successfully
+15:45:02 [ServerInfo] Effect loaded successfully
+15:45:02 [ServerInfo] Event loaded successfully
+15:45:02 [ServerInfo] EventItemBag loaded successfully
+15:45:02 [ServerInfo] Hack loaded successfully
+15:45:02 [ServerInfo] Item loaded successfully
+15:45:02 [ServerInfo] Message loaded successfully
+15:45:02 [ServerInfo] Map loaded successfully
+15:45:02 [ServerInfo] Terrain loaded successfully
+15:45:02 [ServerInfo] Monster loaded successfully
+15:45:02 [ServerInfo] Move loaded successfully
+15:45:02 [ServerInfo] Quest loaded successfully
+15:45:02 [ServerInfo] Shop loaded successfully
+15:45:02 [ServerInfo] Skill loaded successfully
+15:45:02 [ServerInfo] Util loaded successfully
+15:45:02 [ReadBotInfo] BotSystem loaded successfully
+15:45:02 [MonsterSetBase] Incorrect Monster Position: (Monster: 8, Map: 1, X: 52, Y: 121)
+15:45:02 [MonsterSetBase] Incorrect Monster Position: (Monster: 11, Map: 1, X: 200, Y: 114)
+15:45:02 [MonsterSetBase] Incorrect Monster Position: (Monster: 13, Map: 1, X: 116, Y: 18)
+15:45:02 [MonsterSetBase] Incorrect Monster Position: (Monster: 20, Map: 2, X: 182, Y: 167)
+15:45:02 [MonsterSetBase] Incorrect Monster Position: (Monster: 20, Map: 2, X: 242, Y: 207)
+15:45:02 [MonsterSetBase] Incorrect Monster Position: (Monster: 40, Map: 4, X: 24, Y: 7)
+15:45:02 [MonsterSetBase] Incorrect Monster Position: (Monster: 52, Map: 7, X: 165, Y: 136)
+15:45:02 [MonsterSetBase] Incorrect Monster Position: (Monster: 61, Map: 8, X: 5, Y: 204)
+15:45:02 [MonsterSetBase] Incorrect Monster Position: (Monster: 105, Map: 38, X: 153, Y: 76)
+15:45:02 [MonsterSetBase] Incorrect Monster Position: (Monster: 264, Map: 28, X: 91, Y: 4)
+15:45:02 [MonsterSetBase] Incorrect Monster Position: (Monster: 271, Map: 29, X: 60, Y: 7)
+15:45:02 [MonsterSetBase] Incorrect Monster Position: (Monster: 331, Map: 36, X: 58, Y: 7)
+15:45:02 [MonsterSetBase] Incorrect Monster Position: (Monster: 332, Map: 36, X: 91, Y: 4)
+15:59:23 [ServerInfo] CashShop loaded successfully
+15:59:23 [ServerInfo] ChaosMix loaded successfully
+15:59:23 [ServerInfo] Character loaded successfully
+15:59:23 [ServerInfo] Custom loaded successfully
+15:59:23 [ServerInfo] Command loaded successfully
+15:59:23 [ServerInfo] Common loaded successfully
+15:59:23 [ServerInfo] Effect loaded successfully
+15:59:23 [ServerInfo] Event loaded successfully
+15:59:23 [ServerInfo] EventItemBag loaded successfully
+15:59:23 [ServerInfo] Hack loaded successfully
+15:59:24 [ServerInfo] Item loaded successfully
+15:59:24 [ServerInfo] Message loaded successfully
+15:59:24 [ServerInfo] Map loaded successfully
+15:59:24 [ServerInfo] Terrain loaded successfully
+15:59:24 [ServerInfo] Monster loaded successfully
+15:59:24 [ServerInfo] Move loaded successfully
+15:59:24 [ServerInfo] Quest loaded successfully
+15:59:24 [ServerInfo] Shop loaded successfully
+15:59:24 [ServerInfo] Skill loaded successfully
+15:59:24 [ServerInfo] Util loaded successfully
+15:59:24 [ReadBotInfo] BotSystem loaded successfully
+15:59:24 [MonsterSetBase] Incorrect Monster Position: (Monster: 8, Map: 1, X: 52, Y: 123)
+15:59:24 [MonsterSetBase] Incorrect Monster Position: (Monster: 20, Map: 2, X: 238, Y: 205)
+15:59:24 [MonsterSetBase] Incorrect Monster Position: (Monster: 47, Map: 7, X: 216, Y: 47)
+15:59:24 [MonsterSetBase] Incorrect Monster Position: (Monster: 358, Map: 38, X: 162, Y: 80)
+15:59:24 [MonsterSetBase] Incorrect Monster Position: (Monster: 178, Map: 25, X: 90, Y: 4)
+15:59:24 [MonsterSetBase] Incorrect Monster Position: (Monster: 193, Map: 27, X: 62, Y: 7)
+15:59:24 [MonsterSetBase] Incorrect Monster Position: (Monster: 272, Map: 29, X: 90, Y: 4)
+15:59:24 [MonsterSetBase] Incorrect Monster Position: (Monster: 331, Map: 36, X: 60, Y: 7)
+16:03:32 [ServerInfo] CashShop loaded successfully
+16:03:32 [ServerInfo] ChaosMix loaded successfully
+16:03:32 [ServerInfo] Character loaded successfully
+16:03:32 [ServerInfo] Custom loaded successfully
+16:03:32 [ServerInfo] Command loaded successfully
+16:03:32 [ServerInfo] Common loaded successfully
+16:03:32 [ServerInfo] Effect loaded successfully
+16:03:32 [ServerInfo] Event loaded successfully
+16:03:32 [ServerInfo] EventItemBag loaded successfully
+16:03:32 [ServerInfo] Hack loaded successfully
+16:03:32 [ServerInfo] Item loaded successfully
+16:03:32 [ServerInfo] Message loaded successfully
+16:03:32 [ServerInfo] Map loaded successfully
+16:03:32 [ServerInfo] Terrain loaded successfully
+16:03:32 [ServerInfo] Monster loaded successfully
+16:03:32 [ServerInfo] Move loaded successfully
+16:03:32 [ServerInfo] Quest loaded successfully
+16:03:32 [ServerInfo] Shop loaded successfully
+16:03:32 [ServerInfo] Skill loaded successfully
+16:03:32 [ServerInfo] Util loaded successfully
+16:03:32 [ReadBotInfo] BotSystem loaded successfully
+16:03:32 [MonsterSetBase] Incorrect Monster Position: (Monster: 15, Map: 1, X: 190, Y: 143)
+16:03:32 [MonsterSetBase] Incorrect Monster Position: (Monster: 351, Map: 37, X: 95, Y: 232)
+16:03:32 [MonsterSetBase] Incorrect Monster Position: (Monster: 359, Map: 38, X: 153, Y: 76)
+16:03:32 [MonsterSetBase] Incorrect Monster Position: (Monster: 358, Map: 38, X: 117, Y: 124)
+16:03:32 [MonsterSetBase] Incorrect Monster Position: (Monster: 178, Map: 25, X: 92, Y: 4)
+16:03:32 [MonsterSetBase] Incorrect Monster Position: (Monster: 194, Map: 27, X: 67, Y: 7)
+16:03:32 [MonsterSetBase] Incorrect Monster Position: (Monster: 194, Map: 27, X: 90, Y: 4)
+16:03:32 [MonsterSetBase] Incorrect Monster Position: (Monster: 264, Map: 28, X: 67, Y: 7)
+16:16:36 [ServerInfo] CashShop loaded successfully
+16:16:36 [ServerInfo] ChaosMix loaded successfully
+16:16:36 [ServerInfo] Character loaded successfully
+16:16:36 [ServerInfo] Custom loaded successfully
+16:16:36 [ServerInfo] Command loaded successfully
+16:16:36 [ServerInfo] Common loaded successfully
+16:16:36 [ServerInfo] Effect loaded successfully
+16:16:36 [ServerInfo] Event loaded successfully
+16:16:36 [ServerInfo] EventItemBag loaded successfully
+16:16:36 [ServerInfo] Hack loaded successfully
+16:16:36 [ServerInfo] Item loaded successfully
+16:16:36 [ServerInfo] Message loaded successfully
+16:16:36 [ServerInfo] Map loaded successfully
+16:16:36 [ServerInfo] Terrain loaded successfully
+16:16:36 [ServerInfo] Monster loaded successfully
+16:16:36 [ServerInfo] Move loaded successfully
+16:16:36 [ServerInfo] Quest loaded successfully
+16:16:36 [ServerInfo] Shop loaded successfully
+16:16:36 [ServerInfo] Skill loaded successfully
+16:16:36 [ServerInfo] Util loaded successfully
+16:16:36 [ReadBotInfo] BotSystem loaded successfully
+16:16:36 [MonsterSetBase] Incorrect Monster Position: (Monster: 8, Map: 1, X: 49, Y: 124)
+16:16:36 [MonsterSetBase] Incorrect Monster Position: (Monster: 13, Map: 1, X: 113, Y: 18)
+16:16:36 [MonsterSetBase] Incorrect Monster Position: (Monster: 20, Map: 2, X: 239, Y: 207)
+16:16:36 [MonsterSetBase] Incorrect Monster Position: (Monster: 52, Map: 7, X: 161, Y: 137)
+16:16:36 [MonsterSetBase] Incorrect Monster Position: (Monster: 47, Map: 7, X: 217, Y: 46)
+16:16:36 [MonsterSetBase] Incorrect Monster Position: (Monster: 105, Map: 38, X: 154, Y: 76)
+16:16:36 [MonsterSetBase] Incorrect Monster Position: (Monster: 359, Map: 38, X: 151, Y: 76)
+16:16:37 [MonsterSetBase] Incorrect Monster Position: (Monster: 178, Map: 25, X: 90, Y: 4)
+16:16:37 [MonsterSetBase] Incorrect Monster Position: (Monster: 271, Map: 29, X: 58, Y: 7)
+16:16:37 [MonsterSetBase] Incorrect Monster Position: (Monster: 272, Map: 29, X: 91, Y: 4)
+16:16:37 [MonsterSetBase] Incorrect Monster Position: (Monster: 332, Map: 36, X: 92, Y: 4)
+16:19:16 [ServerInfo] CashShop loaded successfully
+16:19:16 [ServerInfo] ChaosMix loaded successfully
+16:19:16 [ServerInfo] Character loaded successfully
+16:19:16 [ServerInfo] Custom loaded successfully
+16:19:16 [ServerInfo] Command loaded successfully
+16:19:16 [ServerInfo] Common loaded successfully
+16:19:16 [ServerInfo] Effect loaded successfully
+16:19:16 [ServerInfo] Event loaded successfully
+16:19:16 [ServerInfo] EventItemBag loaded successfully
+16:19:16 [ServerInfo] Hack loaded successfully
+16:19:16 [ServerInfo] Item loaded successfully
+16:19:16 [ServerInfo] Message loaded successfully
+16:19:16 [ServerInfo] Map loaded successfully
+16:19:16 [ServerInfo] Terrain loaded successfully
+16:19:16 [ServerInfo] Monster loaded successfully
+16:19:16 [ServerInfo] Move loaded successfully
+16:19:16 [ServerInfo] Quest loaded successfully
+16:19:16 [ServerInfo] Shop loaded successfully
+16:19:16 [ServerInfo] Skill loaded successfully
+16:19:16 [ServerInfo] Util loaded successfully
+16:19:16 [ReadBotInfo] BotSystem loaded successfully
+16:19:16 [MonsterSetBase] Incorrect Monster Position: (Monster: 8, Map: 1, X: 51, Y: 124)
+16:19:16 [MonsterSetBase] Incorrect Monster Position: (Monster: 52, Map: 7, X: 161, Y: 136)
+16:19:16 [MonsterSetBase] Incorrect Monster Position: (Monster: 178, Map: 25, X: 90, Y: 4)
+16:19:16 [MonsterSetBase] Incorrect Monster Position: (Monster: 186, Map: 26, X: 92, Y: 4)
+16:19:16 [MonsterSetBase] Incorrect Monster Position: (Monster: 272, Map: 29, X: 68, Y: 7)
+16:29:34 [ServerInfo] CashShop loaded successfully
+16:29:34 [ServerInfo] ChaosMix loaded successfully
+16:29:34 [ServerInfo] Character loaded successfully
+16:29:34 [ServerInfo] Custom loaded successfully
+16:29:34 [ServerInfo] Command loaded successfully
+16:29:34 [ServerInfo] Common loaded successfully
+16:29:34 [ServerInfo] Effect loaded successfully
+16:29:34 [ServerInfo] Event loaded successfully
+16:29:34 [ServerInfo] EventItemBag loaded successfully
+16:29:34 [ServerInfo] Hack loaded successfully
+16:29:34 [ServerInfo] Item loaded successfully
+16:29:34 [ServerInfo] Message loaded successfully
+16:29:34 [ServerInfo] Map loaded successfully
+16:29:34 [ServerInfo] Terrain loaded successfully
+16:29:34 [ServerInfo] Monster loaded successfully
+16:29:34 [ServerInfo] Move loaded successfully
+16:29:34 [ServerInfo] Quest loaded successfully
+16:29:34 [ServerInfo] Shop loaded successfully
+16:29:34 [ServerInfo] Skill loaded successfully
+16:29:34 [ServerInfo] Util loaded successfully
+16:29:34 [ReadBotInfo] BotSystem loaded successfully
+16:29:34 [MonsterSetBase] Incorrect Monster Position: (Monster: 8, Map: 1, X: 51, Y: 121)
+16:29:34 [MonsterSetBase] Incorrect Monster Position: (Monster: 11, Map: 1, X: 238, Y: 5)
+16:29:34 [MonsterSetBase] Incorrect Monster Position: (Monster: 11, Map: 1, X: 243, Y: 7)
+16:29:34 [MonsterSetBase] Incorrect Monster Position: (Monster: 15, Map: 1, X: 186, Y: 144)
+16:29:34 [MonsterSetBase] Incorrect Monster Position: (Monster: 25, Map: 2, X: 92, Y: 204)
+16:29:34 [MonsterSetBase] Incorrect Monster Position: (Monster: 20, Map: 2, X: 182, Y: 167)
+16:29:34 [MonsterSetBase] Incorrect Monster Position: (Monster: 35, Map: 4, X: 32, Y: 204)
+16:29:34 [MonsterSetBase] Incorrect Monster Position: (Monster: 52, Map: 7, X: 162, Y: 136)
+16:29:34 [MonsterSetBase] Incorrect Monster Position: (Monster: 47, Map: 7, X: 217, Y: 46)
+16:29:34 [MonsterSetBase] Incorrect Monster Position: (Monster: 358, Map: 38, X: 162, Y: 80)
+16:29:34 [MonsterSetBase] Incorrect Monster Position: (Monster: 263, Map: 28, X: 59, Y: 7)
+16:29:34 [MonsterSetBase] Incorrect Monster Position: (Monster: 264, Map: 28, X: 92, Y: 4)
+16:29:34 [MonsterSetBase] Incorrect Monster Position: (Monster: 331, Map: 36, X: 62, Y: 7)
+16:31:16 [ServerInfo] CashShop loaded successfully
+16:31:17 [ServerInfo] ChaosMix loaded successfully
+16:31:17 [ServerInfo] Character loaded successfully
+16:31:17 [ServerInfo] Custom loaded successfully
+16:31:17 [ServerInfo] Command loaded successfully
+16:31:17 [ServerInfo] Common loaded successfully
+16:31:17 [ServerInfo] Effect loaded successfully
+16:31:17 [ServerInfo] Event loaded successfully
+16:31:17 [ServerInfo] EventItemBag loaded successfully
+16:31:17 [ServerInfo] Hack loaded successfully
+16:31:17 [ServerInfo] Item loaded successfully
+16:31:17 [ServerInfo] Message loaded successfully
+16:31:17 [ServerInfo] Map loaded successfully
+16:31:17 [ServerInfo] Terrain loaded successfully
+16:31:17 [ServerInfo] Monster loaded successfully
+16:31:17 [ServerInfo] Move loaded successfully
+16:31:17 [ServerInfo] Quest loaded successfully
+16:31:17 [ServerInfo] Shop loaded successfully
+16:31:17 [ServerInfo] Skill loaded successfully
+16:31:17 [ServerInfo] Util loaded successfully
+16:31:17 [ReadBotInfo] BotSystem loaded successfully
+16:31:17 [MonsterSetBase] Incorrect Monster Position: (Monster: 16, Map: 1, X: 244, Y: 7)
+16:31:17 [MonsterSetBase] Incorrect Monster Position: (Monster: 305, Map: 33, X: 148, Y: 70)
+16:31:17 [MonsterSetBase] Incorrect Monster Position: (Monster: 351, Map: 37, X: 95, Y: 232)
+16:31:17 [MonsterSetBase] Incorrect Monster Position: (Monster: 358, Map: 38, X: 163, Y: 80)
+16:31:17 [MonsterSetBase] Incorrect Monster Position: (Monster: 178, Map: 25, X: 92, Y: 4)
+16:31:17 [MonsterSetBase] Incorrect Monster Position: (Monster: 185, Map: 26, X: 61, Y: 7)
+16:31:17 [MonsterSetBase] Incorrect Monster Position: (Monster: 264, Map: 28, X: 90, Y: 4)
+16:31:17 [MonsterSetBase] Incorrect Monster Position: (Monster: 271, Map: 29, X: 59, Y: 7)
+16:31:17 [MonsterSetBase] Incorrect Monster Position: (Monster: 331, Map: 36, X: 62, Y: 7)
+23:41:35 [ServerInfo] CashShop loaded successfully
+23:41:35 [ServerInfo] ChaosMix loaded successfully
+23:41:35 [ServerInfo] Character loaded successfully
+23:41:35 [ServerInfo] Custom loaded successfully
+23:41:35 [ServerInfo] Command loaded successfully
+23:41:35 [ServerInfo] Common loaded successfully
+23:41:35 [ServerInfo] Effect loaded successfully
+23:41:35 [ServerInfo] Event loaded successfully
+23:41:36 [ServerInfo] EventItemBag loaded successfully
+23:41:36 [ServerInfo] Hack loaded successfully
+23:41:37 [ServerInfo] Item loaded successfully
+23:41:37 [ServerInfo] Message loaded successfully
+23:41:37 [ServerInfo] Map loaded successfully
+23:41:37 [ServerInfo] Terrain loaded successfully
+23:41:37 [ServerInfo] Monster loaded successfully
+23:41:37 [ServerInfo] Move loaded successfully
+23:41:37 [ServerInfo] Quest loaded successfully
+23:41:38 [ServerInfo] Shop loaded successfully
+23:41:38 [ServerInfo] Skill loaded successfully
+23:41:38 [ServerInfo] Util loaded successfully
+23:41:38 [ReadBotInfo] BotSystem loaded successfully
+23:41:38 [MonsterSetBase] Incorrect Monster Position: (Monster: 8, Map: 1, X: 52, Y: 125)
+23:41:38 [MonsterSetBase] Incorrect Monster Position: (Monster: 15, Map: 1, X: 189, Y: 143)
+23:41:38 [MonsterSetBase] Incorrect Monster Position: (Monster: 20, Map: 2, X: 240, Y: 207)
+23:41:38 [MonsterSetBase] Incorrect Monster Position: (Monster: 52, Map: 7, X: 163, Y: 136)
+23:41:38 [MonsterSetBase] Incorrect Monster Position: (Monster: 359, Map: 38, X: 200, Y: 119)
+23:41:38 [MonsterSetBase] Incorrect Monster Position: (Monster: 359, Map: 38, X: 155, Y: 76)
+23:41:38 [MonsterSetBase] Incorrect Monster Position: (Monster: 358, Map: 38, X: 161, Y: 80)
+23:41:38 [MonsterSetBase] Incorrect Monster Position: (Monster: 177, Map: 25, X: 62, Y: 7)
+23:41:38 [MonsterSetBase] Incorrect Monster Position: (Monster: 194, Map: 27, X: 67, Y: 7)
+23:41:38 [MonsterSetBase] Incorrect Monster Position: (Monster: 194, Map: 27, X: 94, Y: 4)
+23:41:38 [MonsterSetBase] Incorrect Monster Position: (Monster: 264, Map: 28, X: 68, Y: 7)
+23:41:38 [MonsterSetBase] Incorrect Monster Position: (Monster: 264, Map: 28, X: 90, Y: 4)
+23:48:09 [ServerInfo] CashShop loaded successfully
+23:48:09 [ServerInfo] ChaosMix loaded successfully
+23:48:09 [ServerInfo] Character loaded successfully
+23:48:09 [ServerInfo] Custom loaded successfully
+23:48:09 [ServerInfo] Command loaded successfully
+23:48:09 [ServerInfo] Common loaded successfully
+23:48:09 [ServerInfo] Effect loaded successfully
+23:48:09 [ServerInfo] Event loaded successfully
+23:48:09 [ServerInfo] EventItemBag loaded successfully
+23:48:09 [ServerInfo] Hack loaded successfully
+23:48:09 [ServerInfo] Item loaded successfully
+23:48:09 [ServerInfo] Message loaded successfully
+23:48:09 [ServerInfo] Map loaded successfully
+23:48:09 [ServerInfo] Terrain loaded successfully
+23:48:09 [ServerInfo] Monster loaded successfully
+23:48:09 [ServerInfo] Move loaded successfully
+23:48:09 [ServerInfo] Quest loaded successfully
+23:48:09 [ServerInfo] Shop loaded successfully
+23:48:09 [ServerInfo] Skill loaded successfully
+23:48:09 [ServerInfo] Util loaded successfully
+23:48:09 [ReadBotInfo] BotSystem loaded successfully
+23:48:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 8, Map: 1, X: 51, Y: 125)
+23:48:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 20, Map: 2, X: 241, Y: 205)
+23:48:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 40, Map: 4, X: 16, Y: 117)
+23:48:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 40, Map: 4, X: 26, Y: 7)
+23:48:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 47, Map: 7, X: 219, Y: 47)
+23:48:09 [MonsterSetBase] Incorrect Monster Position: (Monster: 353, Map: 37, X: 229, Y: 94)
+23:48:10 [MonsterSetBase] Incorrect Monster Position: (Monster: 147, Map: 24, X: 59, Y: 7)
+23:48:10 [MonsterSetBase] Incorrect Monster Position: (Monster: 185, Map: 26, X: 59, Y: 7)
+23:48:10 [MonsterSetBase] Incorrect Monster Position: (Monster: 194, Map: 27, X: 69, Y: 7)
+23:48:10 [MonsterSetBase] Incorrect Monster Position: (Monster: 194, Map: 27, X: 94, Y: 4)
+23:48:10 [MonsterSetBase] Incorrect Monster Position: (Monster: 264, Map: 28, X: 92, Y: 4)

@@ -1,0 +1,7 @@
+00:28:27 [SocketManager] Server started at port [55901]
+01:00:03 [Connection] send() failed with error: 10054
+01:00:38 [SocketManager] Server started at port [55901]
+01:02:59 [Connection] send() failed with error: 10054
+01:03:04 [SocketManager] Server started at port [55901]
+01:11:47 [Connection] send() failed with error: 10054
+01:11:51 [SocketManager] Server started at port [55901]

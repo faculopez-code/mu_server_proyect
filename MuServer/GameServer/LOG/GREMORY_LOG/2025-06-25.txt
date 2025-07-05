@@ -1,0 +1,20 @@
+16:36:00 [GREMORY LOG] Start
+17:14:26 [GREMORY LOG] Start
+17:38:55 [GREMORY LOG] Start
+18:28:11 [GREMORY LOG] Start
+18:58:42 [GREMORY LOG] Start
+19:13:58 [Gremory Case] (faculop)(Facundito) ADD ITEM ItemIndex: 5637, ItemLevel: 0, ItemOption1: 0, ItemOption2: 1, ItemOption3: 1, ItemNewOption: 2, ItemSetOption: 0, ItemHarmonyOption: 0, ItemOptionEx: 0, ItemSocketOption: 255, 255, 255, 255, 255, ItemDuration: 0
+19:13:58 [Gremory Case] (faculop)(Facundito) ADD ITEM OK
+19:14:11 [Gremory Case] (faculop)(Facundito) ADD ITEM ItemIndex: 5125, ItemLevel: 0, ItemOption1: 0, ItemOption2: 1, ItemOption3: 1, ItemNewOption: 8, ItemSetOption: 0, ItemHarmonyOption: 0, ItemOptionEx: 0, ItemSocketOption: 255, 255, 255, 255, 255, ItemDuration: 0
+19:14:11 [Gremory Case] (faculop)(Facundito) ADD ITEM OK
+19:37:19 [Gremory Case] (faculop)(Facundito) ADD ITEM ItemIndex: 7182, ItemLevel: 0, ItemOption1: 0, ItemOption2: 0, ItemOption3: 0, ItemNewOption: 0, ItemSetOption: 0, ItemHarmonyOption: 0, ItemOptionEx: 0, ItemSocketOption: 255, 255, 255, 255, 255, ItemDuration: 0
+19:37:19 [Gremory Case] (faculop)(Facundito) ADD ITEM ItemIndex: 7212, ItemLevel: 0, ItemOption1: 0, ItemOption2: 0, ItemOption3: 0, ItemNewOption: 0, ItemSetOption: 0, ItemHarmonyOption: 0, ItemOptionEx: 0, ItemSocketOption: 255, 255, 255, 255, 255, ItemDuration: 0
+19:37:19 [Gremory Case] (faculop)(Facundito) ADD ITEM ItemIndex: 7190, ItemLevel: 0, ItemOption1: 0, ItemOption2: 0, ItemOption3: 0, ItemNewOption: 0, ItemSetOption: 0, ItemHarmonyOption: 0, ItemOptionEx: 0, ItemSocketOption: 255, 255, 255, 255, 255, ItemDuration: 0
+19:37:19 [Gremory Case] (faculop)(Facundito) ADD ITEM OK
+19:37:19 [Gremory Case] (faculop)(Facundito) ADD ITEM OK
+19:37:19 [Gremory Case] (faculop)(Facundito) ADD ITEM OK
+20:27:23 [GREMORY LOG] Start
+21:53:11 [GREMORY LOG] Start
+22:27:53 [GREMORY LOG] Start
+22:51:21 [GREMORY LOG] Start
+23:09:33 [GREMORY LOG] Start

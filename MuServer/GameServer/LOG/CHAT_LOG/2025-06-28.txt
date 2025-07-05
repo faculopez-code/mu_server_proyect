@@ -1,0 +1,16 @@
+00:19:45 [CHAT LOG] Start
+00:47:45 [CHAT LOG] Start
+00:56:08 [mocho][Exequiel1] - (Message: .l..)
+00:56:13 [faculop][Facundito] - (Message: mocho gei)
+01:01:54 [CHAT LOG] Start
+01:34:35 [CHAT LOG] Start
+01:37:51 [CHAT LOG] Start
+01:51:55 [CHAT LOG] Start
+01:55:40 [CHAT LOG] Start
+02:21:25 [mocho][Exequiel] - (Message: ccvvcvvvc)
+16:26:32 [CHAT LOG] Start
+16:31:47 [CHAT LOG] Start
+17:10:26 [faculop][Facundito] - (Message: /resp 14)
+20:09:50 [mocho][Exequiel] - (Message: ols)
+20:09:56 [mocho][Exequiel] - (Message: ola)
+22:10:34 [mocho][Exequiel] - (Message: 2)

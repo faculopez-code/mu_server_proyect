@@ -1,0 +1,14 @@
+0
+//Group	  OptionType	OptionValue
+0         130           5
+1         97            10
+end
+
+1
+//Group	  ItemMinIndex   ItemMaxIndex   ItemLevel     ItemOption1   ItemOption2   ItemOption3   ItemNewOption
+0         0001           0001           *             *             *             *             *		//Short Sword
+0         4097           4097           *             *             *             *             *		//Dragon Armor		
+0         6856           6856           *             *             *             *             *		//Pet 1
+1         0001           0001           *             *             *             *             *		//Short Sword
+1         6856           6856           *             *             *             *             *		//Pet 1
+end

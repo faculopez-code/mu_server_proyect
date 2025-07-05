@@ -1,0 +1,4 @@
+//ItemIndex	TranslationX	TranslationY	RotationX	RotationY	RotationZ	Scale
+6861		0.0		0.0		0.0		270.0		0.0		0.4
+6862		0.0		0.0		90.0		270.0		0.0		0.4
+6863		0.0		0.0		90.0		270.0		0.0		0.4

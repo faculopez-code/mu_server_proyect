@@ -1,0 +1,7 @@
+// CUSTOM FLAGS BY LOUIS
+// MAX 100
+// Start Index 8852
+//Index	Item	Coin1	Coin2	Coin3	AddHP	AddMP	DamageRate	DecDamageRate	AttackSpeed	DoubleDmgRate	TripleDmgRate 	AddExperience	ResistDoubleDamage	ResistIgnoreDefense	ResistIgnoreSD	ResistCriticalDamage	ResisteExcellentDamage	ReflectRate
+0	8852	10	20	30	1000	1000	10		10		50		10		10		100		5			6			7		8			9			0
+1	8853	0	0	0	1000	2000	20		20		50		0		0		100		5			6			0		0			0			0
+end

@@ -1,0 +1,6 @@
+//Index	Item	AddHP	AddMP	DamageRate	DecDamageRate	AttackSpeed	DoubleDmgRate	TripleDmgRate 	AddExperience	ResistDoubleDamage	ResistIgnoreDefense	ResistIgnoreSD	ResistCriticalDamage	ResisteExcellentDamage	BlockStuck	ReflectRate	PetImortal	BlockBackSpring	
+0	6856	5000	2000	5		5		40		50		0		100		5			6			7		8			9			0		0		0		0
+1	6861	5000	2000	20		10		40		0		0		100		5			6			7		8			9			1		0		0		1			
+end
+
+																															//0 = disable | 1 = block all | 2 = block when getting cs crown		

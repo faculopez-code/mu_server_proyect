@@ -1,0 +1,13 @@
+00:19:45 [HACK LOG] Start
+00:47:45 [HACK LOG] Start
+00:48:20 [HackSkillWrongClass][faculop][Facundito] SkillNumber: 44
+00:48:20 [HackSkillWrongClass][faculop][Facundito] SkillNumber: 41
+00:51:32 [HackSkillWrongClass][faculop][Facundito] SkillNumber: 45
+01:01:54 [HACK LOG] Start
+01:34:35 [HACK LOG] Start
+01:37:51 [HACK LOG] Start
+01:51:55 [HACK LOG] Start
+01:55:40 [HACK LOG] Start
+16:26:32 [HACK LOG] Start
+16:31:47 [HACK LOG] Start
+20:23:40 [HackMovementDetected][mocho][Exequiel] OldX: 123, OldY: 214 / NewX: 120, NewY: 214

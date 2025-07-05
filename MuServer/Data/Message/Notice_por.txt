@@ -1,0 +1,4 @@
+//Message                                                     Type   Count   Opacity   Delay   Red   Green   Blue   Speed   RepeatTime
+"www.jogandomu.com.br(por)"                                   0      0       0         0       0     0       0      0       60
+"Venha jogar(por)"                                            0      0       0         0       0     0       0      0       60
+end

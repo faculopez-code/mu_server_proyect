@@ -1,0 +1,29 @@
+16:36:00 [EVENT LOG] Start
+16:50:00 [Invasion Manager] Index(3) Boss Position (Map: 2 X: 162 Y: 17)
+16:51:09 [ MarlonMove ] Map: 0, X: 137 Y: 87
+17:14:26 [EVENT LOG] Start
+17:38:55 [EVENT LOG] Start
+17:53:56 [ MarlonMove ] Map: 0, X: 137 Y: 87
+18:28:11 [EVENT LOG] Start
+18:36:01 [OnlineLoterry] No Winner
+18:58:42 [EVENT LOG] Start
+19:10:00 [CustomQuiz] Start
+19:13:00 [CustomQuiz] Finish
+19:13:43 [ MarlonMove ] Map: 7, X: 17 Y: 25
+19:28:44 [ MarlonMove ] Map: 3, X: 169 Y: 89
+19:36:01 [OnlineLoterry] No Winner
+19:43:45 [ MarlonMove ] Map: 2, X: 198 Y: 47
+19:58:46 [ MarlonMove ] Map: 0, X: 137 Y: 87
+20:10:00 [CustomQuiz] Start
+20:27:23 [EVENT LOG] Start
+20:36:01 [OnlineLoterry] Add Member (Facundito)
+20:36:01 [OnlineLoterry] Winner (Facundito)
+20:42:24 [ MarlonMove ] Map: 7, X: 17 Y: 25
+20:50:00 [Invasion Manager] Index(3) Boss Position (Map: 0 X: 148 Y: 61)
+20:57:25 [ MarlonMove ] Map: 3, X: 169 Y: 89
+21:00:00 [Invasion Manager] Index(8) Boss Position (Map: 56 X: 55 Y: 107)
+21:53:11 [EVENT LOG] Start
+22:27:53 [EVENT LOG] Start
+22:51:21 [EVENT LOG] Start
+23:09:33 [EVENT LOG] Start
+23:10:00 [CustomQuiz] Start

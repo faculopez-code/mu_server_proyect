@@ -1,0 +1,4 @@
+//MonsterIndex	EffectIndex   EffectValue   EffectLevel   ColorR   ColorG   ColorB  EffectType     EffectSize   ColorSide
+  	//585     32077         8            0             2.5     0.5     0.5     9.0         0.5         0.0
+  	585     32077         55           0             2.5     0.5     0.5     9.0         0.5         0.0
+end

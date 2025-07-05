@@ -1,0 +1,8 @@
+//*****************************
+//**	Credits: ElfCheat
+//*****************************
+//ItemMinIndex   ItemMaxIndex	DamageMin	DamageMax	Defense		MagicDefense		MagicPower
+0001		 0001		1000		2000		0		0			0
+2565		 2565		0		0		2500		0			400
+3585		 3585		0		0		2500		0			0
+end

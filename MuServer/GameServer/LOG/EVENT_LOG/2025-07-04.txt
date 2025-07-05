@@ -1,0 +1,17 @@
+14:50:42 [EVENT LOG] Start
+15:36:09 [EVENT LOG] Start
+15:40:54 [EVENT LOG] Start
+15:42:05 [EVENT LOG] Start
+15:45:02 [EVENT LOG] Start
+15:59:23 [EVENT LOG] Start
+16:03:32 [EVENT LOG] Start
+16:05:00 [Invasion Manager] Index(0) Boss Position (Map: 0 X: 138 Y: 201)
+16:10:00 [CustomQuiz] Start
+16:13:00 [CustomQuiz] Finish
+16:16:36 [EVENT LOG] Start
+16:19:16 [EVENT LOG] Start
+16:25:00 [Invasion Manager] Index(2) Boss Position (Map: 37 X: 90 Y: 166)
+16:29:34 [EVENT LOG] Start
+16:31:16 [EVENT LOG] Start
+23:41:35 [EVENT LOG] Start
+23:48:09 [EVENT LOG] Start
